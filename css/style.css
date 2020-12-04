@@ -1,0 +1,19 @@
+/* general css */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./../images/bg/st-petersburg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.black {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+}
